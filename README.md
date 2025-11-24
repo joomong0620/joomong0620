@@ -29,7 +29,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 
   <!-- AI / Data -->
-  <img src="https://img.shields.io/badge/sklearn-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?logo=python&logoColor=black" />
+
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
