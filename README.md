@@ -4,3 +4,7 @@
 
 
 ![Juyeon’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joomong0620&theme=github)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
