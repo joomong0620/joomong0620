@@ -3,5 +3,4 @@
 ----
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joomong0620&theme=tokyonight)](https://git.io/streak-stats)
-
+![Juyeon’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joomong0620&theme=github)
