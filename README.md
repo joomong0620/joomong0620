@@ -55,5 +55,5 @@
 
 #### ﻿[사고 방지 및 관리자 모니터링](https://github.com/joomong0620/smartfactory)
 
-
+#### [무역 데이터 EDA](https://github.com/SujePepero/pepero-workspace)
 
