@@ -49,17 +49,11 @@
 > 새로운 기술을 빠르게 학습하고 이해한 내용을 팀원들과 공유하며 함께 성장하는 개발 문화를 지향합니다.<br />
 > 더 자세한 프로젝트 및 기술 경험은 아래 링크에서 확인하실 수 있습니다.<br />
 
+#### [공연전시 웹사이트](https://github.com/joomong0620/Moa_project)
 
-## Web Project
-#### 공연전시 웹사이트[https://github.com/joomong0620/Moa_project]
+#### [AI 스마트 안전 보행기 시스템](https://github.com/joomong0620/walker)
 
-
-#### 고령자를 위한 AI 기반 스마트 안전 보행기 시스템
-https://github.com/joomong0620/walker
-
-
-#### ﻿사고 방지 및 관리자 모니터링
-https://github.com/joomong0620/smartfactory
+#### ﻿[사고 방지 및 관리자 모니터링](https://github.com/joomong0620/smartfactory)
 
 
 
