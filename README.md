@@ -50,9 +50,8 @@
 > 더 자세한 프로젝트 및 기술 경험은 아래 링크에서 확인하실 수 있습니다.<br />
 
 
-
-#### 공연전시 웹사이트
-https://github.com/joomong0620/Moa_project
+## Web Project
+#### 공연전시 웹사이트[https://github.com/joomong0620/Moa_project]
 
 
 #### 고령자를 위한 AI 기반 스마트 안전 보행기 시스템
