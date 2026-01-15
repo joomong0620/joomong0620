@@ -44,6 +44,11 @@ src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/> <
 ### Tools  
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
 
+
+### DevOps / Infra
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white"/> <img src="https://img.shields.io/badge/ngrok-1F1E37?logo=ngrok&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?logo=cloudflare&logoColor=white"/>
+
+
 ---
 
 
