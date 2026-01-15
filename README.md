@@ -47,7 +47,7 @@ src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/> <
 ---
 
 
-![Juyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=joomong0620&theme=merko&show_icons=true)
+![Juyeon's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joomong0620&theme=merko&show_icons=true)
 
 
 
