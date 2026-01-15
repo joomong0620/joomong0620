@@ -25,30 +25,23 @@
 
 > 제가 다룰 수 있고, 즐겨 사용하고, 공부하고 있는 기술들입니다.
 
-### Languages  
+### 🎵 Languages  
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"/>
-
-### Backend Frameworks  
+### ⚙️ Backend Frameworks  
 <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" /> <img
 src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-000000?logo=databricks&logoColor=white"/> 
-
-### Frontend  
+### 🎨 Frontend  
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?logo=thymeleaf&logoColor=white"/>
-
-### Databases  
+### 🗄️ Databases  
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" />
-
-### AI / Data  
+### 🤖 AI / Data  
 <img src="https://img.shields.io/badge/YOLOv5-00FFFF?logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/LLaMA3-8A2BE2?logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/Roboflow-6706CE?logo=roboflow&logoColor=white"/>
-
-### Collaboration 
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SourceTree-0052CC?logo=sourcetree&logoColor=white"/>
-
-### DevOps / Infra
+### 🚀 DevOps / Infra
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white"/> <img src="https://img.shields.io/badge/ngrok-1F1E37?logo=ngrok&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?logo=cloudflare&logoColor=white"/>
-
-### Test/ API Tool
+### 🧪 Test/ API Tool
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black"/>
+### 🤝 Collaboration 
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/SourceTree-0052CC?logo=sourcetree&logoColor=white"/>
 
 
 ---
