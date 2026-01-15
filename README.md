@@ -30,7 +30,7 @@
 
 ### Backend Frameworks  
 <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" /> <img
-src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-000000?logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
+src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-000000?logo=databricks&logoColor=white"/> <img 
 
 ### Frontend  
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
