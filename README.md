@@ -50,8 +50,6 @@ src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&lo
 ![Juyeon's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joomong0620&theme=merko&show_icons=true)
 
 
-![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=joomong0620)
-
 
 
 ----
