@@ -26,7 +26,7 @@
 > 제가 다룰 수 있고, 즐겨 사용하고, 공부하고 있는 기술들입니다.
 
 ### 🎵 Languages  
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black"/>
 ### ⚙️ Backend Frameworks  
 <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" /> <img
 src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-000000?logo=databricks&logoColor=white"/> 
