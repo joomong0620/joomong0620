@@ -61,11 +61,11 @@ src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&lo
 # 🎡 Portfolio
 
 #### [🏭 Autory - 스마트팩토리 AI 손끼임 사고 방지 프로젝트](https://github.com/joomong0620/smartfactory)
-#### 👨‍🦽‍➡️ gilbeat - 고령자를 위한 스마트 안전 보행기 시스템 
-#### 🌨️ Devlog - 개발자를 위한 소통 블로그 플랫폼 
-#### 🎭 MoA - 공연·전시 통합 웹 프로젝트 
-#### 🚢 EDA - 무역 데이터 분석 프로젝트 
-#### 📄 논문 - YOLOv8·PoseEstimation 낙상 감지 성능 연구
+#### [👨‍🦽‍➡️ gilbeat - 고령자를 위한 스마트 안전 보행기 시스템](https://github.com/joomong0620/walker) 
+#### [🌨️ Devlog - 개발자를 위한 소통 블로그 플랫폼](https://github.com/Team-ZeroBoost/Devlog)
+#### [🎭 MoA - 공연·전시 통합 웹 프로젝트](https://github.com/joomong0620/Moa_project)
+#### [🚢 EDA - 무역 데이터 분석 프로젝트](https://github.com/SujePepero/pepero-workspace)
+#### [📄 논문 - YOLOv8·PoseEstimation 낙상 감지 성능 연구](https://github.com/joomong0620/falldetection_KCI_Project)
 
 
 > 그동안 진행했던 프로젝트 입니다!<br />
