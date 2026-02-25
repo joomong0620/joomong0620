@@ -60,7 +60,7 @@ src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&lo
 
 # 🎡 Portfolio
 
-#### 🏭 Autory - 스마트팩토리 AI 손끼임 사고 방지 프로젝트 
+#### [🏭 Autory - 스마트팩토리 AI 손끼임 사고 방지 프로젝트](https://github.com/joomong0620/smartfactory)
 #### 👨‍🦽‍➡️ gilbeat - 고령자를 위한 스마트 안전 보행기 시스템 
 #### 🌨️ Devlog - 개발자를 위한 소통 블로그 플랫폼 
 #### 🎭 MoA - 공연·전시 통합 웹 프로젝트 
