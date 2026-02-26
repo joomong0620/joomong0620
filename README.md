@@ -6,6 +6,8 @@
 💡 Interests: Python, Java Web Development<br />
 📫 Contact: yeon062000@naver.com<br />
 
+---
+
 
 # 💿 Intro
 
@@ -28,7 +30,7 @@ AI 모델과 서버를 연동하고, 실제 사용 환경의 피드백을 반영
 <br />
 
 
-## 🎧 Tech Stack  
+# 🎧 Tech Stack  
 
 > 제가 다룰 수 있고, 즐겨 사용하고, 공부하고 있는 기술들입니다.
 
