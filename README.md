@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Hello🎡&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20Juyeon%20GitHub)
 
+# 👩🏻‍💻 About Me
+🎓 Major: Artificial Intelligence
+🔌 Minor: IoT Convergence
+💡 Interests: Python, Java Web Development
+📫 Contact: yeon062000@naver.com
+
+
 # 💿 Intro
 
 
@@ -18,6 +25,20 @@
 >또한 긍정적인 마인드로 팀원들에게 힘이 되는 사람으로 남고 싶습니다.
 함께 고민하고, 함께 배우고, 함께 완성해가는 과정 속에서 가장 큰 보람을 느낍니다.
 
+
+A Developer Moving Toward a Bigger World
+
+I strive to grow into a developer with a broader perspective and deeper technical expertise.
+In a fast-changing tech environment, I enjoy learning new concepts and turning them into real implementations.
+
+With a foundation in Python, I have worked on backend development using FastAPI and Django, along with AI projects.
+Rather than simply writing code, I focus on structurally solving problems and designing practical systems.
+
+Through integrating AI models with backend servers and refining them based on real-world feedback,
+I learned that technology ultimately exists to serve people.
+
+I aim to build systems that create meaningful impact —
+and to grow together with my team along the way.
 
 ---
 <br />
